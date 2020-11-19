@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, Senior Student and Gamer
 
-- 🌱 I’m currently studying in Vilnius University 
+- 🎓 I’m currently studying in Vilnius University 
 - 🏢 I’m looking to work in tech companies (which offers free taco tuesdays 😄)
 - 💾 Always ready to learn new technologies
 - ⚡ I'm eager to create something that will change a world (at least a little bit 😄)
