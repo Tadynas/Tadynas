@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a Web Developer, Senior Student and Gamer
+## I'm a Web Developer, Senior Student and Gamer
 
 - 🌱 I’m currently studying in Vilnius University 
 - 🏢 I’m looking to work in tech companies (which offers free taco tuesdays 😄)
@@ -9,7 +9,7 @@
 - 🤯 I can write "Hello, World!" in Brainf\*uk
 - 🕹️ I spend my leisure time mastering aim in Valorant
 
-### I work with:
+## I work with:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
