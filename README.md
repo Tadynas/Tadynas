@@ -20,11 +20,11 @@
 &nbsp;
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 &nbsp;
-<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="Sass" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/057/thumb/scsslogo.png" />
 &nbsp;
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 &nbsp;
-<img alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img alt="jQuery" width="26px" src="https://icon-library.net/images/jquery-icon-png/jquery-icon-png-7.jpg" />
 &nbsp;
 <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 &nbsp;
@@ -32,7 +32,7 @@
 &nbsp;
 <img alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 &nbsp;
-<img alt="Babel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
+<img alt="Babel" width="26px" src="https://camo.githubusercontent.com/1708539168f87946bc5888f59a74c537f3235d393c97549d6bb62390fdd1b79d/68747470733a2f2f626162656c6a732e696f2f696d672f66617669636f6e2e706e67" />
 </div>
 
 <div align="left">
@@ -48,9 +48,9 @@
 &nbsp;
 <img alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/csharp/csharp.png" />
 &nbsp;
-<img alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/java/java.png" />
+<img alt="Java" width="26px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2b14985a-c66e-4dbd-b09c-609fe0678dae/d5w6c1f-755e9d03-d8b2-48d3-a1b6-3723cad6eaea.png" />
 &nbsp;
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" />
 &nbsp;
 <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 &nbsp;
