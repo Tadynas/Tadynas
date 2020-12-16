@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a Web Developer, Senior Student and Gamer
+## I'm a Software Engineer, Senior Student and Gamer
 
 - 🎓 I’m currently studying in Vilnius University 
 - 🏢 I’m looking to work in tech companies (which offers free taco tuesdays 😄)
