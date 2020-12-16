@@ -6,7 +6,6 @@
 - 🏢 I’m looking to work in tech companies (which offers free taco tuesdays 😄)
 - 💾 Always ready to learn new technologies
 - ⚡ I'm eager to create something that will change a world (at least a little bit 😄)
-- 🤯 I can write "Hello, World!" in Brainf\*uk
 - 🕹️ I spend my leisure time mastering aim in Valorant
 
 <br>
