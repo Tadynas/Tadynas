@@ -61,7 +61,7 @@
 
 <div align="left">
 
-<img alt="Balsamiq" width="26px" src="https://ga1.imgix.net/logo/o/91065-1487749816-7583342?auto=format&ch=Width%2CDPR&dpr=1.25&h=125&ixjsv=2.0.0&ixlib=rb-1.0.0&q=75" />
+<img alt="Balsamiq" width="26px" src="https://aws1.discourse-cdn.com/business6/uploads/balsamiq/original/2X/f/f4674b3f2263929f683bf8a9c9744c68ae05804a.png" />
 &nbsp;
 <img alt="Lucidchart" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/lucidchart-icon.png" />
 &nbsp;
