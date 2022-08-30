@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-## I'm a Software Engineer, Senior Student and Gamer
+## I'm a Full Stack Web Developer
 
-- 🎓 I’m currently studying in Vilnius University 
-- 🏢 I’m looking to work in tech companies (which offers free taco tuesdays 😄)
-- 💾 Always ready to learn new technologies
-- ⚡ I'm eager to create something that will change a world (at least a little bit 😄)
-- 🕹️ I spend my leisure time mastering aim in Valorant
+- 👨‍💻 I’m currently working as a freelancer
+- 🎓 I have a Software Engineer bachelor degree
+- 🏢 I’m open for a tech job positions 
+- 🤓 Always learning new technologies
+- ⚡ I'm eager to create disruptive projects
 
 <br>
 
@@ -39,15 +39,9 @@
 &nbsp;
 <img alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 &nbsp;
-<img alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/angular/angular.png" />
-&nbsp;
 <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/typescript/typescript.png" />
 &nbsp;
 <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-&nbsp;
-<img alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/csharp/csharp.png" />
-&nbsp;
-<img alt="Java" width="26px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2b14985a-c66e-4dbd-b09c-609fe0678dae/d5w6c1f-755e9d03-d8b2-48d3-a1b6-3723cad6eaea.png" />
 &nbsp;
 <img alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" />
 &nbsp;
