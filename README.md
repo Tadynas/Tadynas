@@ -23,16 +23,12 @@
 &nbsp;
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 &nbsp;
-<img alt="jQuery" width="26px" src="https://icons-for-free.com/iconfiles/png/512/jquery+icon-1320185152994214115.png" />
-&nbsp;
 <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 &nbsp;
 <img alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 &nbsp;
 <img alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 &nbsp;
-<img alt="Babel" width="26px" src="https://camo.githubusercontent.com/1708539168f87946bc5888f59a74c537f3235d393c97549d6bb62390fdd1b79d/68747470733a2f2f626162656c6a732e696f2f696d672f66617669636f6e2e706e67" />
-</div>
 
 <div align="left">
 <img alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
