@@ -51,8 +51,6 @@
 
 <div align="left">
 
-<img alt="Balsamiq" width="26px" src="https://aws1.discourse-cdn.com/business6/uploads/balsamiq/original/2X/f/f4674b3f2263929f683bf8a9c9744c68ae05804a.png" />
-&nbsp;
 <img alt="Lucidchart" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/lucidchart-icon.png" />
 &nbsp;
 <img alt="Draw.io" width="26px" src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82?mode=scale&q=90&h=270&w=270&background=%23464646" />
